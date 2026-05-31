@@ -1,8 +1,8 @@
 # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
 
 **AIM:**
-## NAME :P TEJASHWINI
-## REF NO:25018382
+## NAME : S DHARSHINI
+## REF NO:25011405
 To determine the voltage in the circuit using nodal analysis both theoretically and practically for a given DC circuit.
 
 **APPARATUS REQUIRED:**
